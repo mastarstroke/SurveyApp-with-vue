@@ -1,6 +1,5 @@
 
 <template>
-  <div class="bg-white">
         <div class="sm:mx-auto sm:w-full sm:max-w-sm">
           <div class="flex-shrink-0">
             <h4 class="font-semibold leading-6 text-indigo-600">Welcome to:</h4>
@@ -75,7 +74,6 @@
           </router-link>
         </p>
       </div>
-    </div>
   </template>
 
 <script setup>
