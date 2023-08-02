@@ -1,5 +1,6 @@
 
 <template>
+  <div class="bg-white">
         <div class="sm:mx-auto sm:w-full sm:max-w-sm">
           <div class="flex-shrink-0">
             <h4 class="font-semibold leading-6 text-indigo-600">Welcome to:</h4>
@@ -10,7 +11,6 @@
         <h2 class="mt-10 text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">Sign in to your account</h2>
       </div>
 
-      <div class="bg-white">
           <div class="mt-10 sm:mx-auto sm:w-full sm:max-w-sm">
         <form class="space-y-6" @submit="login">
           <Alert  v-if="errorMsg" >
