@@ -1,13 +1,12 @@
 
 <template>
-        <div class="sm:mx-auto sm:w-full sm:max-w-sm">
-          <div class="flex-shrink-0">
-            <h4 class="font-semibold leading-6 text-indigo-600">Welcome to:</h4>
-                <h1 class="text-5xl font-bold leading-none text-gray-600">Survey
-                </h1>
-                <span class="text-xl text-gray-600">Made Easy</span>
-              </div>
-        <h2 class="mt-10 text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">Sign in to your account</h2>
+    <div class="sm:mx-auto sm:w-full sm:max-w-sm">
+        <div class="flex-shrink-0 w-30 bg-gray-100">
+          <h1 class="text-3xl font-bold leading-none text-gray-600">Survey
+          </h1>
+          <span class="text-md text-gray-600 text-indigo-600">Made Easy</span>
+        </div>
+      <h2 class="mt-10 text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">Sign in to your account</h2>
       </div>
 
           <div class="mt-10 sm:mx-auto sm:w-full sm:max-w-sm">
