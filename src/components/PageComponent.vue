@@ -22,7 +22,3 @@ const props = defineProps({
     name: Object,
 });
 </script>
-
-<script>
-
-</script>

@@ -123,7 +123,6 @@
   import { useRouter } from 'vue-router'
   import Notification from './Notification.vue'
 
-  const store = useStore();
   
   const navigation = [
     { name: "Dashboard", to: {name: "Dashboard"}},
